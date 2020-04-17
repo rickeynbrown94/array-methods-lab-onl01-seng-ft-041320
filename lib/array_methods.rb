@@ -4,7 +4,8 @@ array.include("true")
 end
 
 def using_sort(array)
-array = []
+array = ["wow"]
+array.sort
 end
 
 def using_reverse(array)
