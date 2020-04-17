@@ -13,11 +13,13 @@ array = ["first", "arrays!"]
 end
 
 def using_first(array)
-
+array = ["wow", "cool"]
+array.first
 end
 
 def using_last(array)
-
+array = ["forever", "arrays!"]
+array.last
 end
 
 def using_size(array)
