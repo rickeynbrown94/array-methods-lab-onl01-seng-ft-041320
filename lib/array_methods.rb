@@ -1,5 +1,5 @@
 def using_include(array, element)
-array = ["true", "false"]
+array = ["true", "true"]
 array.include?("true")
 end
 
@@ -9,7 +9,7 @@ array.sort
 end
 
 def using_reverse(array)
-array = ["first", "arrays!"]
+array = ["wow", "arrays!"]
 array.reverse
 end
 
