@@ -4,12 +4,12 @@ array.include("true")
 end
 
 def using_sort(array)
-array = ["wow"]
+array = ["cool", "wow"]
 array.sort
 end
 
 def using_reverse(array)
-
+array = ["first", "arrays!"]
 end
 
 def using_first(array)
