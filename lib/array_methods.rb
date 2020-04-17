@@ -1,6 +1,6 @@
 def using_include(array, element)
-array = [element, "false"]
-using_include.include?(element)
+array = ["true", element]
+using_include.include?("true")
 end
 
 def using_sort(array)
