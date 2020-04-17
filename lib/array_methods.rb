@@ -1,10 +1,10 @@
 def using_include(array, element)
 array = ["true", "false"]
-array
+array.include("true")
 end
 
 def using_sort(array)
-
+array = []
 end
 
 def using_reverse(array)
