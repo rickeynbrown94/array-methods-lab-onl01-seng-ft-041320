@@ -1,5 +1,5 @@
 def using_include(array, element)
-array = ["true", "not true"]
+array = ["true", "Florbin"]
 array.include?("true")
 end
 
